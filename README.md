@@ -37,3 +37,19 @@ Explored and analyzed system metrics:
 Below is a snapshot of the Netdata dashboard showing live system metrics:
 
 <img width="1918" height="996" alt="Screenshot 2025-08-16 152856" src="https://github.com/user-attachments/assets/59e1a648-0edb-40ae-a88e-f7b4fdc44d17" />
+
+🎯 Key Learnings
+
+Lightweight & Real-Time: Netdata provides instant, interactive monitoring with zero configuration.
+
+Ease of Deployment: A single Docker run command is enough to start full monitoring.
+
+Wide Coverage: Tracks CPU, memory, disk, network, containers, and more.
+
+Built-in Alerts: Comes with pre-configured thresholds for proactive monitoring.
+
+Useful for DevOps: Ideal for debugging performance issues on servers and applications.
+
+✅ Outcome
+
+By completing this task, I gained hands-on experience with monitoring servers and applications using Netdata, explored system health metrics, and understood how lightweight monitoring tools can assist in real-time DevOps operations.
